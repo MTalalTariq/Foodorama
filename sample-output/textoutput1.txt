@@ -1,0 +1,49 @@
+Welcome to WLU Foodorama!
+
+Menu:
+1) hot dog      $ 1.25
+2) hamburger    $ 2.00
+3) cheeseburger $ 2.75
+4) fries        $ 1.75
+5) poutine      $ 3.75
+6) pizza        $10.00
+7) drink        $ 1.50
+8) steak        $ 7.00
+9) shawarma     $ 5.00
+Press 0 when done.
+Press any other key to see the menu again.
+
+Command: 6
+How many do you want? 2
+Command: e
+Not a valid number
+
+Menu:
+1) hot dog      $ 1.25
+2) hamburger    $ 2.00
+3) cheeseburger $ 2.75
+4) fries        $ 1.75
+5) poutine      $ 3.75
+6) pizza        $10.00
+7) drink        $ 1.50
+8) steak        $ 7.00
+9) shawarma     $ 5.00
+Press 0 when done.
+Press any other key to see the menu again.
+
+Command: 1
+How many do you want? 0
+Command: 9
+How many do you want? e
+Not a valid number
+Command: 9
+How many do you want? 1
+Command: 0
+----------------------------------------
+pizza         2 @ $ 10.00 = $ 20.00
+shawarma      1 @ $  5.00 = $  5.00
+
+Subtotal:                   $ 25.00
+Taxes:                      $  3.25
+Total:                      $ 28.25
+
